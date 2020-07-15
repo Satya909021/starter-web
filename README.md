@@ -10,3 +10,7 @@ a lots of lectures are already submitted.
 
 
 This is the famous and one of the best training course.
+
+## GIT Comparission 
+
+Adding GIT comparission lecture.
